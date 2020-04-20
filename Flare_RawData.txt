@@ -1,0 +1,56 @@
+Posts scanned: 984, comments scanned: 46516
+
+AuthLeft:
+537 unique users found
+54 posts found, with 20518 total points, avg 379.9629630
+3560 comments found, with 34757 total points, avg 9.763202247
+
+AuthCenter:
+581 unique users found
+70 posts found, with 22429 total points, avg 320.4142857
+3502 comments found, with 49766 total points, avg 14.21073672
+
+AuthRight:
+728 unique users found
+77 posts found, with 45845 total points, avg 595.3896104
+4608 comments found, with 57796 total points, avg 12.54253472
+
+Left:
+925 unique users found
+89 posts found, with 76851 total points, avg 863.4943820
+4076 comments found, with 46754 total points, avg 11.47055937
+
+Centrist:
+873 unique users found
+81 posts found, with 25713 total points, avg 317.4444444
+4070 comments found, with 50778 total points, avg 12.47616708
+
+Right:
+613 unique users found
+90 posts found, with 29852 total points, avg 331.6888889
+2900 comments found, with 50465 total points, avg 17.40172414
+
+LibLeft:
+1785 unique users found
+168 posts found, with 110379 total points, avg 657.0178571
+8447 comments found, with 115123 total points, avg 13.62886232
+
+LibCenter:
+1079 unique users found
+104 posts found, with 81608 total points, avg 784.6923077
+4105 comments found, with 50757 total points, avg 12.36467722
+
+Yellow LibRight:
+1619 unique users found
+161 posts found, with 99088 total points, avg 615.4534161
+7407 comments found, with 117329 total points, avg 15.84028622
+
+Purple LibRight:
+288 unique users found
+29 posts found, with 8911 total points, avg 307.2758621
+1687 comments found, with 20410 total points, avg 12.09839953
+
+Unflaired:
+1 unique users found
+0 posts found, with 0 total points, avg 0
+1 comments found, with 46 total points, avg 46
